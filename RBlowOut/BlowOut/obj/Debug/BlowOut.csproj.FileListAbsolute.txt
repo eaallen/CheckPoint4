@@ -132,3 +132,7 @@ C:\Users\Elijah Allen\Desktop\RBlowOut\RBlowOut\BlowOut\bin\System.Web.Http.WebH
 C:\Users\Elijah Allen\Desktop\RBlowOut\RBlowOut\BlowOut\bin\System.Net.Http.Formatting.xml
 C:\Users\Elijah Allen\Desktop\RBlowOut\RBlowOut\BlowOut\bin\System.Web.Http.xml
 C:\Users\Elijah Allen\Desktop\RBlowOut\RBlowOut\BlowOut\bin\System.Web.Http.WebHost.xml
+C:\Users\Elijah Allen\source\repos\CheckPoint4\RBlowOut\BlowOut\obj\Debug\BlowOut.csprojAssemblyReference.cache
+C:\Users\Elijah Allen\source\repos\CheckPoint4\RBlowOut\BlowOut\obj\Debug\BlowOut.csproj.CoreCompileInputs.cache
+C:\Users\Elijah Allen\source\repos\CheckPoint4\RBlowOut\BlowOut\obj\Debug\BlowOut.dll
+C:\Users\Elijah Allen\source\repos\CheckPoint4\RBlowOut\BlowOut\obj\Debug\BlowOut.pdb
